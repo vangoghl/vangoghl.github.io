@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_65679" data-name="Rectangle 65679" width="24" height="24" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-我的收藏_FFFFFF">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="我的收藏_FFFFFF" data-name="我的收藏#FFFFFF" clip-path="url(#clip-我的收藏_FFFFFF)">
+    <g id="我的收藏" transform="translate(-342 -468)">
+      <g id="Mask_Group_1569" data-name="Mask Group 1569" transform="translate(342 468)" clip-path="url(#clip-path)">
+        <g id="Mask_Group_1963" data-name="Mask Group 1963" clip-path="url(#clip-path)">
+          <path id="Icon_feather-heart" data-name="Icon feather-heart" d="M17.279,3.8a6.132,6.132,0,0,1,4.336,10.469l-8.5,8.5a.84.84,0,0,1-1.188,0l-8.5-8.5a6.132,6.132,0,1,1,8.672-8.672l.426.426.426-.426A6.091,6.091,0,0,1,17.279,3.8Z" transform="translate(-0.519 -1.407)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

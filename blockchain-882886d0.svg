@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_99669" data-name="Rectangle 99669" width="24" height="24" transform="translate(-10168 -12504)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-區塊鏈_9196AF">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="區塊鏈_9196AF" data-name="區塊鏈#9196AF" clip-path="url(#clip-區塊鏈_9196AF)">
+    <g id="Mask_Group_87005" data-name="Mask Group 87005" transform="translate(10168 12504)" clip-path="url(#clip-path)">
+      <g id="Group_87062" data-name="Group 87062" transform="translate(-2.71 -2.979)">
+        <path id="Union_364" data-name="Union 364" d="M5.279,17.582l1.409-1.459,3.129,3.02,3.225-3.115,1.411,1.46-3.642,3.517L9.851,22Zm8.76-2.633a2.854,2.854,0,0,1,.079-.668l-.874-.612-3.072,1.473V10.915l3.866-1.853v3.544l.692.485a2.847,2.847,0,1,1-.691,1.86ZM0,14.95a2.848,2.848,0,0,1,4.889-1.985l.805-.564V9.062L9.56,10.915v4.227L6.314,13.587l-.746.522A2.848,2.848,0,1,1,0,14.95Zm16.79-3.994V4h-3V2h5v8.957Zm-15.922,0V2h5V4h-3v6.954Zm5.226-2.38L9.2,7.086V5.617A2.848,2.848,0,0,1,9.865,0h0a2.848,2.848,0,0,1,.662,5.618V7.086l3.108,1.489L9.866,10.383Z" transform="translate(-10163.157 -12500.021)" fill="#9196af"/>
+      </g>
+    </g>
+  </g>
+</svg>

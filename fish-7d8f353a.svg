@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_57331" data-name="Rectangle 57331" width="24" height="24" transform="translate(-21865 -9229)" fill="#9196af"/>
+    </clipPath>
+    <clipPath id="clip-捕魚t_9196AF">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="捕魚t_9196AF" data-name="捕魚t#9196AF" clip-path="url(#clip-捕魚t_9196AF)">
+    <g id="分类_捕鱼_白" transform="translate(21865 9229)" clip-path="url(#clip-path)">
+      <g id="Group_4213" data-name="Group 4213" transform="translate(-21865 -9229)">
+        <rect id="Rectangle_1299" data-name="Rectangle 1299" width="24" height="24" fill="none"/>
+        <path id="Path_3222" data-name="Path 3222" d="M724.91,1291.29c-1.128,0-6.766-3.294-6.766-3.294-1.409,1.375.282,4.941.282,4.941-2.536.275-3.1,3.843-3.1,3.843-1.691-2.745-5.615-2.3-5.356-2.2,5.921,2.471,2.819,11.53,2.819,11.53a4.219,4.219,0,0,0,3.1-3.02c.564,1.65,4.228,2.471,4.228,2.471a7.547,7.547,0,0,1-1.974,1.65h4.228a4.47,4.47,0,0,0,4.23-3.294l-2.819-.55.846-2.745h-.846l.282-1.922h-.846v-3.568l2.254,2.745-.282,1.65,1.41-1.1v2.2l2.254-.55.282,2.745a5.288,5.288,0,0,0,2.819-4.118C731.958,1292.39,726.038,1291.29,724.91,1291.29Zm2.31,4.2a1,1,0,1,1,1-1A1,1,0,0,1,727.22,1295.49Z" transform="translate(-708.957 -1286)" fill="#9196af"/>
+      </g>
+    </g>
+  </g>
+</svg>

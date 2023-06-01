@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_75723" data-name="Rectangle 75723" width="24" height="24" fill="#fe5858"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.11" cy="0.08" r="1.429" gradientTransform="matrix(0.973, 0.232, -0.28, 1.172, 0.061, -0.093)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffac74"/>
+      <stop offset="0.205" stop-color="#fb4c4c"/>
+      <stop offset="0.724" stop-color="#f52d2d"/>
+      <stop offset="1" stop-color="#fe5858"/>
+    </radialGradient>
+    <filter id="Icon_feather-heart" x="-0.676" y="1.465" width="25.352" height="23.07" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-收藏_on">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="收藏_on" clip-path="url(#clip-收藏_on)">
+    <g id="Mask_Group_75669" data-name="Mask Group 75669" clip-path="url(#clip-path)">
+      <g id="Mask_Group_75668" data-name="Mask Group 75668" clip-path="url(#clip-path)">
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_feather-heart)">
+          <path id="Icon_feather-heart-2" data-name="Icon feather-heart" d="M15.529,3.8a5.447,5.447,0,0,1,3.851,9.3L11.827,20.65a.746.746,0,0,1-1.055,0L3.218,13.1a5.447,5.447,0,1,1,7.7-7.7l.378.378.378-.378A5.41,5.41,0,0,1,15.529,3.8Z" transform="translate(0.7 -0.33)" fill="url(#radial-gradient)"/>
+        </g>
+        <path id="Icon_feather-heart-3" data-name="Icon feather-heart" d="M17.279,3.8a6.126,6.126,0,0,1,4.336,1.776,6.014,6.014,0,0,1,0,8.574l-8.5,8.408a.847.847,0,0,1-1.188,0l-8.5-8.408a6.021,6.021,0,0,1,0-8.574,6.182,6.182,0,0,1,8.672,0l.426.421.426-.421A6.126,6.126,0,0,1,17.279,3.8Zm-4.762,17,7.91-7.821a4.366,4.366,0,0,0,0-6.225,4.487,4.487,0,0,0-6.3,0l-1.02,1.008a.847.847,0,0,1-1.188,0L10.9,6.748a4.488,4.488,0,0,0-6.3,0,4.372,4.372,0,0,0,0,6.225Z" transform="translate(-0.519 -1.406)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
